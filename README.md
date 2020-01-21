@@ -1,2 +1,2 @@
 # hello-world
-testing out github and seeing how it works
+lets see how this works
