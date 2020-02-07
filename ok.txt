@@ -1,3 +1,5 @@
 this is a text for the example
 did smthg actually happen here 
-this is the new line i added because of dog branch using the dog branch
+
+i will delete whatever the dog branch has
+
