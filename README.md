@@ -1,2 +1,10 @@
 Rainbow and unicorn 
-lets see how this works
+
+yellow 
+purple 
+green
+reed 
+blue
+orange
+
+there are so far only rainbows and unicorns
